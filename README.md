@@ -224,7 +224,7 @@ sudo python3.6 -m pip install tushare<0.9
 ```
 ### 安装QUANTAXIS
 ```
-git clone https://github.com/yutiansut/quantaxis
+git clone https://github.com/YANHAOsTHINGSdb/QUANTAXIS
 cd quantaxis .
 pip install -r requirements.txt -i https://pypi.doubanio.com/simple
 pip install tushare==0.8.7
